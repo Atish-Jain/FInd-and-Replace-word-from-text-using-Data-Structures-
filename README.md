@@ -10,4 +10,4 @@ A find and replace functionality available in different word processors was impl
 * Enter the word that has to be replaced then enter new word.
 * Program will search the old word in Linked List and replaces it with new word.
 * It will simultaneously update the BST also.
-* Finally the new twxt was rewritten the file. 
+* Finally the new text was rewritten the file. 
